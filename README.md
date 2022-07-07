@@ -3,6 +3,7 @@ flow puppeteer
 
 dependencys
 - puppeteer
+- dotenv
 
 install
 npm install
